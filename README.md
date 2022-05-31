@@ -7,7 +7,7 @@
  <br/>
 
   <div align="center"> 
-⚡ Skills ⚡
+ :clipboard:Once I've Used 
   </div>
   <br/>
   <div align="center">
