@@ -8,8 +8,6 @@
   
  <br/>
  <br/>
- <br/>
- <br/>
 
   <div align="center"> 
  :clipboard:Once I've Used 
@@ -27,9 +25,6 @@
  
    <br/>
    <br/>
-   <br/>
    
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact)
-
-![893107's GitHub stats](https://github-readme-stats.vercel.app/api?username=893107&show_icons=true&theme=graywhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=893107&layout=compact) ![893107's GitHub stats](https://github-readme-stats.vercel.app/api?username=893107&show_icons=true&theme=graywhite)
