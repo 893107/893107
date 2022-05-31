@@ -6,10 +6,10 @@
 
 
 
-  <div align="center">
+  <div align="center"> 
 ⚡ Skills ⚡
-   </div>
-  
+  </div>
+  <br/>
   <div align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
