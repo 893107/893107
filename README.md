@@ -7,7 +7,7 @@
 
 
 
-⚡ Skills
+⚡ Skills ⚡
 
 
 
