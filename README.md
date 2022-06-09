@@ -2,7 +2,7 @@
 
   <div align="center"> 
   
-  ####  Welcome my github profile !
+  ####  :wave: Welcome my github profile !
  
   </div>
   
@@ -11,7 +11,7 @@
  <br/>
 
   <div align="center"> 
-:clipboard:Once I've Used 
+:clipboard: Once I've Used 
   </div>
   <br/>
   
