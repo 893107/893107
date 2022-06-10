@@ -35,8 +35,7 @@
   
   <br/>
    
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](
-  https://velog-readme-stats.vercel.app/api/redirect?name=somm&tag=github)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=somm&color=dark)](https://velog-readme-stats.vercel.app/api/redirect?name=somm&tag=github)
   
   
   
